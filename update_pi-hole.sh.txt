@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo pihole -f
+sudo apt update
+sudo pihole -up
+sudo pihole updateGravity
